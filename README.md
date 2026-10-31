@@ -13,4 +13,4 @@ Hi, I'm Apoorva, a student preparing for placements.
 
 ## Progress
 - [x] Created my GitHub repo
-- [ ] Week 1: Python basics
+- [x] Week 1: Python basics
