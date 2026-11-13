@@ -14,3 +14,6 @@ Hi, I'm Apoorva, a student preparing for placements.
 ## Progress
 - [x] Created my GitHub repo
 - [x] Week 1: Python basics
+   - [x] Week 2: if/else and loops
+   - [x] Week 3: lists, strings, functions
+   - [ ] Week 4: searching and sorting
